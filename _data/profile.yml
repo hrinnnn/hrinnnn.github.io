@@ -1,0 +1,44 @@
+primary_name: "Zhixuan Zhao"
+secondary_name: ""
+navbar_name: "Zhixuan Zhao"
+
+positions:
+  - name: Undergraduate Researcher
+  - name: Department of Computer Science, Tsinghua University
+
+email: "zhaozhix24@mails.tsinghua.edu.cn"
+github: hrinnnn
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am an undergraduate student in Computer Science at Tsinghua University.
+    My work spans robot learning and multimodal video understanding, with experience
+    in vision-language-action model training and evaluation.
+  </p>
+  <p>
+    I previously worked with Ranjay Krishna's group at the University of Washington
+    on <em>PerceptionComp</em>, a benchmark for complex perception-centric reasoning over videos.
+  </p>
+
+portrait_url: /assets/images/photos/zhixuan-zhao.jpg
+
+education:
+  - name: Tsinghua University
+    dept: Department of Computer Science
+    position: Undergraduate student
+    date: ""
+
+experience:
+  - name: Tsinghua University
+    dept: Huaping Liu's research group
+    position: Undergraduate researcher
+    date: Feb 2026 - present
+  - name: Shenyi Robotics (Beijing)
+    dept: Embodied AI
+    position: Research intern
+    date: May 2026 - present
+  - name: University of Washington
+    dept: Ranjay Krishna's research group
+    position: Undergraduate researcher
+    date: Jun 2025 - May 2026
