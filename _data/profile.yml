@@ -13,12 +13,13 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am an undergraduate student in Computer Science at Tsinghua University.
-    My work spans robot learning and multimodal video understanding, with experience
-    in vision-language-action model training and evaluation.
+    In Prof. Huaping Liu's group, I work on robot learning and vision-language-action policies.
+    My recent work includes <em>TimelyDAgger</em>, on the timing of expert intervention,
+    and <em>CSDW</em>, on learning from command–state discrepancies.
   </p>
   <p>
-    I previously worked with Ranjay Krishna's group at the University of Washington
-    on <em>PerceptionComp</em>, a benchmark for complex perception-centric reasoning over videos.
+    Previously, I worked with Ranjay Krishna's group at the University of Washington
+    on <em>PerceptionComp</em>, an ECCV 2026 benchmark for perception-centric reasoning over long videos.
   </p>
 
 portrait_url: /assets/images/photos/zhixuan-zhao.jpg
